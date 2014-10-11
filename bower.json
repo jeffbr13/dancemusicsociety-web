@@ -1,0 +1,21 @@
+{
+  "name": "dms-web",
+  "version": "0.0.0",
+  "authors": [
+    "Ben Jeffrey <mail@benjeffrey.net>"
+  ],
+  "description": "Website for the Edinburgh University Dance Music Society",
+  "license": "MIT",
+  "homepage": "http://dancemusic.eusa.ed.ac.uk/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation5-sass": "~0.0.2"
+  }
+}
